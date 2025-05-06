@@ -1,4 +1,4 @@
-# Created at 2025-05-06T09:40:45.437
+# Created at 2025-05-06T10:04:26.406
 Boot Manifest-JAR contains absolute paths in classpath 'D:\devops\hellomaven1\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
